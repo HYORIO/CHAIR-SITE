@@ -165,3 +165,54 @@
     background-color:#F13C6E ;
     color: #ffffff;
 }
+
+
+.rozovie-kartochki{
+display: flex;
+gap: 25px;
+padding-right: 45px;
+padding-left: 40px;
+padding-top: 35px;
+padding-bottom: 35px;
+background-color:#F13C6E ;
+color: #EFEFEF;
+
+}
+
+
+.feedback-section{
+    display: flex;
+margin-top: 100px;
+gap: 30px;
+}
+    .feedback-title{
+        color: #EFEFEF;
+        font-size: 14px;
+        width: 231px;
+    }
+
+    .feedback-title-2{
+color: #EFEFEF;
+font-size: 18px;
+width: 250px;
+}
+
+
+    .convertik{
+width: 140px;
+height: 140px;
+}
+
+
+.text-cartochek{
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+}
+
+.input-email{
+    padding-bottom: 9px;
+    padding-top: 9px;
+    padding-left: 25px;
+    border-radius: 30px;
+}
