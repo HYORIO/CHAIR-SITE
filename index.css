@@ -256,3 +256,57 @@ height: 140px;
 .impuls-section{
     margin-top: 100px;
 }
+
+.vi-smotreli{
+    display: flex;
+    flex-direction: column;
+    padding-top: 80px;
+    gap: 38px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.slots-for-sale-row{
+    display: flex;
+    gap: 30px;
+}
+
+.slot-for-sale{
+    display: flex;
+    background-color: #ffffff;
+    padding-top: 38px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    flex-direction: column;
+    width:fit-content ; 
+    height: fit-content;
+    align-items: center;
+    gap: 20px;
+}
+
+.chair-for-sale{
+    width: 125px;
+    height: 166px;
+}
+
+.discription-2{
+    width: 195px;
+    text-align: center;
+    font-size: 14px; 
+}
+
+.price-2{
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.button-sale-2{
+    border-radius: 30px;
+    background-color: #F13C6E;
+    color: #EFEFEF;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 9px;
+    padding-top: 9px;
+}
