@@ -1,4 +1,5 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+* {font-family: "Roboto", sans-serif;
     box-sizing: border-box;
     padding:0px;
     margin:0px;
@@ -264,6 +265,7 @@ height: 140px;
     gap: 38px;
     font-size: 24px;
     font-weight: 700;
+    padding-bottom: 80px;
 }
 
 .slots-for-sale-row{
@@ -385,4 +387,52 @@ height: 140px;
     position: absolute;
     left: 47px;
     top: 46px;
+}
+
+.krutoi-footer{
+
+}
+
+
+.popular-categories{
+    display: flex;
+
+gap: 30px;
+margin-top: 60px;
+}
+
+.poloska{
+height: 1px;
+width:255px ;
+background-color: #EFEFEF;
+margin-bottom: 25px;
+
+}
+
+
+.krutoi-text{
+font-size: 16px;
+font-weight: 500;
+margin-bottom: 30px;
+}
+
+
+.odna-categoria{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 14px;
+    color: #828282;
+}
+
+
+.categorii{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.text-odnoy-categorii{
+    font-size: 14px;
+    color: #828282;
 }
