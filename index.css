@@ -310,3 +310,79 @@ height: 140px;
     padding-bottom: 9px;
     padding-top: 9px;
 }
+
+
+
+.hero-block{
+    display: flex;
+    height: 604px;
+    background-color: #F13C6E;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+
+}
+
+.super-chair{
+    color: #efefef;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.action-text{
+    color: #EFEFEF;
+    font-size: 14px;
+}
+
+
+.button-podrobnee{
+    color: #efefef;
+    font-size: 14px;
+    background-color: #F13C6E;
+    border-radius: 40px;
+    border: 2px solid #EFEFEF;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-top: 50px;
+}
+
+.texts-super-chair{
+    width: 308px;
+}
+
+.around{
+    height: 859px;
+    width: 859px;
+    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    left: 725px;
+    border-radius: 1000000000000000000000000000000000000px;
+
+    /* background-color: #fff; */
+    /* Прозрачность */
+    /* opacity: 40%; */
+}
+
+
+.around-2{
+    height: 677px;
+    width: 677px;
+    background-color:rgba(255, 255, 255, 0.4);
+    position: absolute;
+    left: 91px;
+    top: 91px;
+    border-radius: 10000000000000000000000000000000000px;
+}
+
+
+.chair-super-mega-uitra{
+    height: 584px;
+    width: 584px;
+    position: absolute;
+    left: 47px;
+    top: 46px;
+}
