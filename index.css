@@ -440,7 +440,7 @@ margin-bottom: 30px;
 .mega-super-poloska{
 margin-top:60px ;
 height: 1px;
-width: 1920px;
+width: 100%;
 background-color: #EFEFEF;
 }
 
@@ -479,7 +479,7 @@ width: 22px;
     display: flex;
     gap: 20px; 
     
-    margin-right: 205px;
+    margin-right: 185px;
 }
 
 .icons-2{
@@ -493,14 +493,14 @@ width: 22px;
     display: flex;
     font-size: 14px;
     font-weight: 400;
-    width: 227px;
+    width: 231px;
     margin-right: 105px;
 }
 
 .number{
     font-size: 16px;
     margin-right: 40px;
-    width: 127px;
+    width: 130px;
 }
 
 .callback{
@@ -508,10 +508,34 @@ width: 22px;
     border-radius: 40px;
     border: 2px solid #F13C6e;
     background-color: #ffffff;
-    padding-left: 27px;
-    padding-right: 27px;
-    padding-top: 13px;
-    padding-bottom: 13px;
     width: 170px;
     height: 40px;
+}
+
+
+.the-best-supermarket{
+    display: flex;
+    height: 64px;
+    background-color: #EFEFEF;
+
+}
+
+.text-the-best-supermarket{
+    font-size: 12px;
+    margin-right: 345px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    white-space: nowrap;
+}
+
+.privacy-policy{
+    font-size: 12px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    white-space: nowrap;
+}
+
+
+.the-end {
+    padding-bottom: 38px;
 }
