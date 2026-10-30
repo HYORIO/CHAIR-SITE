@@ -494,4 +494,24 @@ width: 22px;
     font-size: 14px;
     font-weight: 400;
     width: 227px;
+    margin-right: 105px;
+}
+
+.number{
+    font-size: 16px;
+    margin-right: 40px;
+    width: 127px;
+}
+
+.callback{
+    font-size: 14px;
+    border-radius: 40px;
+    border: 2px solid #F13C6e;
+    background-color: #ffffff;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 170px;
+    height: 40px;
 }
