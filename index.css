@@ -15,11 +15,8 @@ button {
 
 .header {
     display:flex;
-
     justify-content:center;
-
     flex-direction: column;
-
 }
 
 .page-links{
@@ -32,6 +29,7 @@ button {
     justify-content:center;
     
 }
+
 .page-links-text{
     font-size: 14px;   
 }
@@ -57,7 +55,6 @@ button {
     color: #F13C6e
 }
 
-
 .header-search{
     margin-left: 172px;
     margin-right: 93px;
@@ -68,21 +65,15 @@ button {
     padding: 10px; 
 }
 
-
 .feedback-header{
     display: flex;
     gap: 40px;
     align-items: center;
-
 }
-
 
 .header-phone{
     font-size: 16px;
-
 }
-
-
 
 .header-feedback-button{
     font-size: 14px;
@@ -92,8 +83,6 @@ button {
     padding-inline:27px;
     background-color: #ffffff;
 }
-
-
 
 .header-sections{
     display: flex;
@@ -132,7 +121,6 @@ button {
     gap: 30px;
 }
 
-
 .card{
     display: flex;
     gap: 20px;
@@ -145,7 +133,6 @@ button {
     align-items: center;
 }
 
-
 .description{
     width: 195px;
     font-size: 14px;
@@ -154,12 +141,10 @@ button {
 
 }
 
-
 .price{
     font-size: 21px;
     font-weight: 500;
 }
-
 
 .button-sale{
 
@@ -171,45 +156,41 @@ button {
     color: #ffffff;
 }
 
-
 .rozovie-kartochki{
-display: flex;
-padding-right: 45px;
-padding-left: 40px;
-padding-top: 35px;
-padding-bottom: 35px;
-background-color:#F13C6E ;
-color: #EFEFEF;
-width: 540px;
-height: 212px;
-justify-content: space-between;
+    display: flex;
+    padding-right: 45px;
+    padding-left: 40px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color:#F13C6E ;
+    color: #EFEFEF;
+    width: 540px;
+    height: 212px;
+    justify-content: space-between;
 
 }
-
 
 .feedback-section{
     display: flex;
-margin-top: 100px;
-gap: 30px;
+    margin-top: 100px;
+    gap: 30px;
 }
     .feedback-title{
-        color: #EFEFEF;
-        font-size: 14px;
-        width: 231px;
+    color: #EFEFEF;
+    font-size: 14px;
+    width: 231px;
     }
 
     .feedback-title-2{
-color: #EFEFEF;
-font-size: 18px;
-width: 250px;
+    color: #EFEFEF;
+    font-size: 18px;
+    width: 250px;
 }
-
 
     .convertik{
-width: 140px;
-height: 140px;
+    width: 140px;
+    height: 140px;
 }
-
 
 .text-cartochek{
     display: flex;
@@ -228,9 +209,7 @@ height: 140px;
 .gruzovichok,.convertik-2{
     width: 188px;
     height: 100px;
-
 }
-
 
 .button-map{
     background-color: #F13C6E;
@@ -241,7 +220,6 @@ height: 140px;
     padding-top: 9px;
     font-size: 14px;
 }
-
 
 .impuls-row{
     display: flex;  
@@ -317,8 +295,6 @@ height: 140px;
     padding-top: 9px;
 }
 
-
-
 .hero-block{
     display: flex;
     height: 604px;
@@ -341,7 +317,6 @@ height: 140px;
     color: #EFEFEF;
     font-size: 14px;
 }
-
 
 .button-podrobnee{
     color: #efefef;
@@ -393,33 +368,27 @@ height: 140px;
     top: 46px;
 }
 
-.krutoi-footer{
-
-}
+.krutoi-footer{}
 
 
 .popular-categories{
     display: flex;
-
-gap: 30px;
-margin-top: 60px;
+    gap: 30px;
+    margin-top: 60px;
 }
 
 .poloska{
-height: 1px;
-width:255px ;
-background-color: #EFEFEF;
-margin-bottom: 25px;
-
+    height: 1px;
+    width:255px ;
+    background-color: #EFEFEF;
+    margin-bottom: 25px;
 }
-
 
 .krutoi-text{
-font-size: 16px;
-font-weight: 500;
-margin-bottom: 30px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 30px;
 }
-
 
 .odna-categoria{
     display: flex;
@@ -429,12 +398,10 @@ margin-bottom: 30px;
     color: #828282;
 }
 
-
 .categorii{
     display: flex;
     flex-direction: column;
 }
-
 
 .text-odnoy-categorii{
     font-size: 14px;
@@ -442,25 +409,25 @@ margin-bottom: 30px;
 }
 
 .mega-super-poloska{
-margin-top:60px ;
-height: 1px;
-width: 100%;
-background-color: #EFEFEF;
+    margin-top:60px ;
+    height: 1px;
+    width: 100%;
+    background-color: #EFEFEF;
 }
 
 .instagram-icon{
-display: flex;
-border-radius: 40px;
-border: 2px  solid #F13C6E ;
-height: 45px;
-width: 45px;
-justify-content: center;
-align-items: center;
+    display: flex;
+    border-radius: 40px;
+    border: 2px  solid #F13C6E ;
+    height: 45px;
+    width: 45px;
+    justify-content: center;
+    align-items: center;
 }
 
 .instagram{
-height: 22px;
-width: 22px;
+    height: 22px;
+    width: 22px;
 }
 
 .facebook{
@@ -491,7 +458,6 @@ width: 22px;
     margin-top: 37px;
     align-items: center;
 }
-
 
 .text-nevskii{
     display: flex;
@@ -538,7 +504,6 @@ width: 22px;
     margin-bottom: 25px;
     white-space: nowrap;
 }
-
 
 .the-end {
     padding-bottom: 38px;
