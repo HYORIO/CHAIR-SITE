@@ -175,19 +175,20 @@ button {
     margin-top: 100px;
     gap: 30px;
 }
-    .feedback-title{
+
+.feedback-title{
     color: #EFEFEF;
     font-size: 14px;
     width: 231px;
-    }
+}
 
-    .feedback-title-2{
+.feedback-title-2{
     color: #EFEFEF;
     font-size: 18px;
     width: 250px;
 }
 
-    .convertik{
+.convertik{
     width: 140px;
     height: 140px;
 }
@@ -367,9 +368,6 @@ button {
     left: 47px;
     top: 46px;
 }
-
-.krutoi-footer{}
-
 
 .popular-categories{
     display: flex;
